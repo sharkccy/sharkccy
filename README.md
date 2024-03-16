@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sharkccy, I'm currently a student in National Yang Ming Chiao Tung University.
+- 👋 Hi, I’m @sharkccy, I'm currently a junior student in NYCU.
 - 👀 I've been interesting in programing since I was in junior high school, and started to learn java at that time.
-- 🌱 I’m currently learning about algorithm with Java, C++ and things about frontend developement like boostrap,css,etc.
+- 🌱 I’m currently learning about machine learning models and utilize it on the computer vision area.
 - 📫 Here's my Email: sharkccy1222.c@nycu.edu.tw
 
 <!---
