@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sharkccy, I'm currently a junior student in NYCU.
-- 👀 I've been interesting in programing since I was in junior high school, and started to learn java at that time.
-- 🌱 I’m currently learning about machine learning models and utilize it on the computer vision area.
+- 👋 Hi, I’m @sharkccy, I'm currently a senior student major in computer science in National Yang Ming Chiao Tong University (NYCU).
+- 👀 I've been interesting in programing since I was a junior high school student, and started to code at that time.
+- 🌱 I’m currently applying machine learning models on 3D computer vision area.
 - 📫 Here's my Email: sharkccy1222@gmail
 
 <!---
