@@ -1,10 +1,9 @@
-Computer Science student at National Yang Ming Chiao Tung University (NYCU), Taiwan, with an outstanding academic record (GPA 4.03/4.3). 
+Hello, I'm Vincent Chang, a first year master student of Computer Science at Rice University. 
+My background combines strong academic training with applied research and industry collaboration, preparing me to contribute effectively in machine learning engineering roles.
 
-Actively engaged in research and projects related to computer vision and machine learning. Contributed to the HOMEE AI industry-academia collaboration, developing a 3D furniture removal pipeline. 
+I finished my computer science bachelor degree in NYCU Taiwan, focusing on machine learning and computer vision. I have hands-on experience in deep learning, computer vision, and generative models, with projects ranging from indoor scene reconstruction to automatic video generator. 
 
-Experienced in diverse projects, including an AI-driven short video generation system, a Battle Sheep game AI agent (MCTS), bird image classification, stock efficient frontier visualization tool, and a traffic hotspot mobile application.
-
-Proficient in Python (PyTorch, TensorFlow, OpenCV) and C/C++, Passionate about leveraging computer vision and machine learning to solve real-world challenges, eager to continue advancing in these fields.
+Currently seeking a 2026 Summer internship in Machine Learning Engineering or Applied Scientist, where I can apply my skills in deep learning, computer vision, and data-driven area.
 
 - 📫 Here's my Email: sharkccy1222@gmail
 
