@@ -5,7 +5,7 @@ I finished my computer science bachelor degree in NYCU Taiwan, focusing on **mac
 
 Currently seeking a 2026 Summer internship in **Machine Learning Engineering** or **Applied Scientist**, where I can apply my skills in deep learning, computer vision, and data-driven area.
 
-- 📫 Here's my Email: sharkccy1222@gmail
+- 📫 Here's my Email: vc68@rice.edu
 
 <!---
 sharkccy/sharkccy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
